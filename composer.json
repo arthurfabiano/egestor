@@ -1,12 +1,12 @@
 {
-    "name": "valdiney/vai",
+    "name": "arthur/egestor",
     "description": "This is the zig project.",
     "type": "project",
     "license": "MIT",
     "authors": [
         {
-            "name": "Valdiney França",
-            "email": "valdiney.2@hotmail.com"
+            "name": "Arthur Fabiano",
+            "email": "arthur.masterdevelop@gmail.com"
         }
     ],
     "autoload": {
